@@ -4,7 +4,7 @@ void main() {
   };
 
   // var name = json['user']![0];
-  // var age = json['user']![1];
+  // va r age = json['user']![1];
   // print(name);
   // print(age);
 
